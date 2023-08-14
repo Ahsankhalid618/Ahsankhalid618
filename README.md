@@ -19,12 +19,13 @@
 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Ahsankhalid618&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=dark&hide_border=false&align=right)<br/>
 <a href="https://github.com/Ahsankhalid618">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=dark" />
   </a>
-
+[![Ahsankhalid's GitHub | Stats](https://stats.quine.sh/Ahsankhalid/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ahsankhalid)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ahsankhalid618&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
