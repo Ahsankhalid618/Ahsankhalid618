@@ -3,7 +3,11 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 
-🔭 I’m currently working on Front-end Development.<br>🌱 I’m currently learning Back-end Development.<br>👯 I’m looking to collaborate with Full Stack developers.<br>🤝 I’m looking for help with Open Source Contributions.<br>💬 Ask me about Web technologies.<br>😄 Pronouns: He/Him
+🔭 I’m currently working as a Full Stack Developer.<br>
+🌱 I contribute to Open Source and build Full Stack web apps.<br>
+👯 I’m interested in collaborating on exciting projects and exploring new technologies.<br>
+🤝 I’m always open to connecting with fellow developers and contributing to the open source community.<br>
+💬 Feel free to ask me about any aspect of web development or share your thoughts on the latest tech trends.<br>
 
  [![](https://visitcount.itsvg.in/api?id=Ahsankhalid618&icon=0&color=9)](https://visitcount.itsvg.in)
  
