@@ -28,9 +28,9 @@
   
 <p>
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Ahsankhalid">
-    <img src="https://stats.quine.sh/Ahsankhalid/stack-overflow?theme=dark" width="500" height="350" alt="Stack Overflow Stats" style="display: inline-block;"/>
+    <img src="https://stats.quine.sh/Ahsankhalid/stack-overflow?theme=dark" width="350" height="350" alt="Stack Overflow Stats" style="display: inline-block;"/>
   </a>
-  <img src="https://leetcard.jacoblin.cool/ahsan_khalid?theme=dark&font=Inter&ext=activity" width="500" height="350" alt="LeetCard" style="display: inline-block;" />
+  <img src="https://leetcard.jacoblin.cool/ahsan_khalid?theme=dark&font=Inter&ext=activity" width="350" height="350" alt="LeetCard" style="display: inline-block;" />
 </p>
 
 
@@ -40,10 +40,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
 </p>
 
-<p >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" style="display: inline-block;  height: 200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="display: inline-block; height: 200px" />
+<p style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px;"/>
 </p>
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
