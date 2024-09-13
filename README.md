@@ -79,14 +79,14 @@
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="width: 100%; max-width: 800px;" />
 </p>
 
 ---
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="width: 100%; max-width: 800px;" />
+  <img  src="https://readme-jokes.vercel.app/api?type=horizontal&theme=tokyonight" alt="Jokes Card" style="width: 100%; max-width: 800px; " />
 </p>
 
 
