@@ -27,12 +27,23 @@
 
 # 💎 Problem-Solving Stats:
   
-<p align="center" style="display:flex; justify-content:space-between;">
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=Ahsankhalid">
-    <img src="https://stats.quine.sh/Ahsankhalid/stack-overflow?theme=dark" width="350" height="350" alt="Stack Overflow Stats" style="display: inline-block;"/>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+<a href="https://quine.sh?utm_source=widgets&utm_campaign=Ahsankhalid">
+    <img src="https://stats.quine.sh/Ahsankhalid/stack-overflow?theme=dark"  alt="Stack Overflow Stats" style="display: inline-block;"/>
   </a>
-  <img src="https://leetcode.card.workers.dev/ahsan_khalid?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" style="height: 350px; width: 350px;" />
-</p>
+ 
+</td>
+<td width="50%" align="center">
+
+  <img src="https://leetcode.card.workers.dev/ahsan_khalid?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+
+  </td>
+ 
+</tr>
+</table>
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;"> GitHub Stats:
