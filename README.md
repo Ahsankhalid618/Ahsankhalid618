@@ -26,7 +26,7 @@
 
 # 💎 Problem-Solving Stats:
   
-<p align="center" style="display:flex; gap:10px">
+<p align="center" style="display:flex; justify-content:space-between;">
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Ahsankhalid">
     <img src="https://stats.quine.sh/Ahsankhalid/stack-overflow?theme=dark" width="350" height="350" alt="Stack Overflow Stats" style="display: inline-block;"/>
   </a>
