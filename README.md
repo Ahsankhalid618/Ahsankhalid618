@@ -1,7 +1,8 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />  About Me: 
 
-![Header](https://i.ibb.co/yQSnYFn/github-header-image.png)
-
+<p align="center">
+<img  src="https://i.ibb.co/yQSnYFn/github-header-image.png" />
+</p>
 
 🥷 I’m currently working as a Full Stack Developer.<br>
 ⌛ I contribute to Open Source and build full-stack web apps.<br>
