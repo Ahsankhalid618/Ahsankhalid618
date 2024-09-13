@@ -37,9 +37,9 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;"> GitHub Stats:
 
-<div style="display: flex; height: 200px; gap: 10px; justify-content: center; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" style="height: 100%; width: auto; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 100%; width: auto; object-fit: contain;" />
+<div align="center" style="display: flex;  gap: 10px; justify-content: center; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" style="height: 200px; width: auto; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px; width: auto; object-fit: contain;" />
 </div>
 
 <div align="center" style="display: flex; justify-content: center; height: 300px;">
