@@ -26,7 +26,7 @@
 
 # 💎 Problem-Solving Stats:
   
-<p align="center">
+<p align="center" style="display:flex; gap:10px">
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Ahsankhalid">
     <img src="https://stats.quine.sh/Ahsankhalid/stack-overflow?theme=dark" width="350" height="350" alt="Stack Overflow Stats" style="display: inline-block;"/>
   </a>
@@ -36,8 +36,7 @@
 
 # 📶 GitHub Stats:
 
-  <p align="center">
-
+  <p align="center" style="width:full">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" style="height: 200px;"/>
 </p>
 
