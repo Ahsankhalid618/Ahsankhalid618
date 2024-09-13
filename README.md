@@ -37,7 +37,7 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;"> GitHub Stats:
 
-<div align="center" style="display: flex;  gap: 10px; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; flex-wrap: nowrap;  gap: 10px; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" style="height: 200px; width: auto; object-fit: contain;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px; width: auto; object-fit: contain;" />
 </div>
