@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />  About Me: 
 
 <p align="center">
-<img  src="https://i.ibb.co/yQSnYFn/github-header-image.png" />
+<img  src="./head-image.png" />
 </p>
 
 🥷 I’m currently working as a Full Stack Developer.<br>
