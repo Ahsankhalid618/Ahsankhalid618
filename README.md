@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
 </p>
 
-<p style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" style="height: 200px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px;"/>
 </p>
