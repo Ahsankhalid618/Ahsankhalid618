@@ -26,27 +26,42 @@
 
 # 💎 Problem-Solving Stats:
   
-[![Ahsankhalid's Stack Overflow](https://stats.quine.sh/Ahsankhalid/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ahsankhalid)
-<img src="https://leetcard.jacoblin.cool/ahsan_khalid?theme=dark&font=Inter&ext=activity" width="500" height="350" />
+<p align="center">
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=Ahsankhalid">
+    <img src="https://stats.quine.sh/Ahsankhalid/stack-overflow?theme=dark" width="500" height="350" alt="Stack Overflow Stats" style="display: inline-block;"/>
+  </a>
+  <img src="https://leetcard.jacoblin.cool/ahsan_khalid?theme=dark&font=Inter&ext=activity" width="500" height="350" alt="LeetCard" style="display: inline-block;" />
+</p>
 
 
 # 📶 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true)
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" style="display: inline-block;  height: 200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="display: inline-block; height: 200px" />
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ahsankhalid618&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahsankhalid618&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
+</p>
 
 ---
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="width: 100%; max-width: 800px;" />
+</p>
 
 
