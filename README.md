@@ -37,19 +37,26 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;"> GitHub Stats:
 
-<div align="center" style="display: flex; flex-wrap: nowrap; height: 200px; gap: 10px; justify-content: center; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" style="height: 100%; width: 50%; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 100%; width: 50%; object-fit: contain;" />
-</div>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; height: 300px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsankhalid618&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20graph&line=ffb000&area_color=f1e05a&hide_border=true" alt="Activity Graph" style="width: 100%; height: 100%; object-fit: cover;" />
-</div>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ahsankhalid618&theme=vision-friendly-dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" style="width: 100%; object-fit: contain;" />
-</div>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
+  </td>
+  <tr>
+  <td colspan="2"  align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsankhalid618&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20graph&line=ffb000&area_color=f1e05a&hide_border=true" alt="Activity Graph" />
+  </td>
+  </tr>
+</tr>
+</table>
 
 
 ## 🏆 GitHub Trophies
