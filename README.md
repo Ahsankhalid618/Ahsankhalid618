@@ -36,16 +36,19 @@
 
 
 # 📶 GitHub Stats:
+<p align="center">
 
-  <p align="center" style="width:full">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" style="height: 200px;"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" style="  width: 100%" />
+   
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsankhalid618&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20graph&line=ffb000&area_color=f1e05a&hide_border=true" height="250" alt="activity-graph graph"  />
+   
 </p>
 
-<p align="center" style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px;"/>
+<p style="display: flex; justify-content:center; gap:10px;">
+<img src="https://github-readme-stats.vercel.app/api?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" style="  width: 380px"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="  width: 300px"/>
+  
 </p>
-
 
 ## 🏆 GitHub Trophies
 <p align="center">
