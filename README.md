@@ -7,7 +7,7 @@
 🥷 I’m currently working as a Full Stack Developer. <br>
 ⌛ I contribute to OpenSource and build full-stack web apps.<br>
 👯 I’m interested in collaborating on exciting projects and exploring new technologies.<br>
-💚 I’m always open to connecting with fellow developers and contributing to the open-source community.<br>
+💚 I’m always open to connecting with fellow developers and contributing to the openSource community.<br>
 💬 Feel free to ask me about any aspect of web development or share your thoughts on the latest tech trends.<br>
 
  [![](https://visitcount.itsvg.in/api?id=Ahsankhalid618&icon=0&color=9)](https://visitcount.itsvg.in)
