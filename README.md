@@ -5,7 +5,7 @@
 </p>
 
 🥷 I’m currently working as a Full Stack Developer. <br>
-⌛ I contribute to OpenSource and build full-stack web apps.<br>
+⌛ I contribute to OpenSource and build full-stack web Apps.<br>
 👯 I’m interested in collaborating on exciting projects and exploring new technologies .<br>
 💚 I’m always open to connecting with fellow developers and contributing to the opensource community.<br>
 💬 Feel free to ask me about any aspect of Web development or share your thoughts on the latest tech trends.<br>
