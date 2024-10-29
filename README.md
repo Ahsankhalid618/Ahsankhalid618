@@ -7,15 +7,28 @@
 🥷 I’m currently working as a Full Stack Developer. <br>
 ⌛ I contribute to Open Source and build full-stack web Apps.<br>
 👯 I’m interested in collaborating on exciting projects and exploring new technologies.<br>
-💚 I’m always open to connecting with fellow developers and contributing to the open source community.<br>
+💚 I’m always open to connecting with fellow developers and contributing to the open-source community.<br>
 💬 Feel free to ask me about any aspect of Web development or share your thoughts on the latest tech trends.<br>
 
  [![](https://visitcount.itsvg.in/api?id=Ahsankhalid618&icon=0&color=9)](https://visitcount.itsvg.in)
  
 ---
+## OpenSource - GSSOC 2024 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  </a>
+</div>
 
 # 🤖 OpenSource - HacktoberFest
+
  [![An image of @ahsankhalid618's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahsankhalid618)](https://holopin.io/@ahsankhalid618)
+ 
 
 ---
 ## 📱 Socials:
