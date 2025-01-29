@@ -51,7 +51,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img src="https://leetcode.card.workers.dev/ahsan_khalid?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ahsan_khalid?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
 
   </td>
  
