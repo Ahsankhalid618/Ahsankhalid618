@@ -44,8 +44,8 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<a href="https://quine.sh?utm_source=widgets&utm_campaign=Ahsankhalid">
-    <img src="https://stats.quine.sh/Ahsankhalid/stack-overflow?theme=dark"  alt="Stack Overflow Stats" style="display: inline-block;"/>
+<a href="https://stackoverflow.com/users/16762504/ahsan-khalid">
+    <img src="https://stackoverflow-card.vercel.app/?userID=16762504&theme=solarized-dark"  alt="Stack Overflow Stats" style="display: inline-block;"/>
   </a>
  
 </td>
