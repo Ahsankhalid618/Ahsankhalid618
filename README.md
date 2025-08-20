@@ -4,7 +4,7 @@
 <img  src="./head-image.png" />
 </p>
 
-🥷 I’m currently working as a Full Stack Developer. <br>
+🥷 I’m currently working as a Full Stack Developer <br>
 ⌛ I contribute to Open Source and build full-stack Web Apps.<br>
 👯 I’m interested in collaborating on exciting projects and exploring new technologies.<br>
 💚 I’m always open to connecting with fellow developers and contributing to the open-source community.<br>
